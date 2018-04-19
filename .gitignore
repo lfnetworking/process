@@ -1,20 +1,11 @@
-# Ignore Vim temporary files
+# Vim
 .*.sw?
 
-# Maven
-target/
-
-# Vagrant
-.vagrant
-
-# IntelliJ
-.idea/
-*.iml
-
-# Eclipse
-.project
-
-# Python
+# Tox
 .tox/
-__pycache__/
-*.pyc
+
+# Docs
+docs/_build/
+
+# Coala
+node_modules

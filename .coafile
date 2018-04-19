@@ -1,0 +1,39 @@
+[all]
+ignore = .tox/**,
+    .git/**,
+    .gitignore,
+    .gitreview,
+    node_modules/**,
+    **.sw?,
+    **.orig
+
+[all.reStructuredText]
+bears = RSTcheckBear
+files = **.rst
+
+[all.linelength]
+bears = LineLengthBear
+files = **.rst
+max_line_length = 80
+
+[all.spacing]
+bears = SpaceConsistencyBear
+files = **.rst
+use_spaces = True
+enforce_newline_at_EOF = False
+default_actions = SpaceConsistencyBear: ApplyPatchAction
+
+[all.grammar]
+bears = WriteGoodLintBear
+files = **.rst
+allow_so_beginning = False
+allow_there_is = False
+allow_cliche_phrases = False
+
+[all.git]
+bears = GitCommitBear
+ignore_length_regex = Signed-off-by,
+    Also-by,
+    Co-authored-by,
+    http://,
+    https://
