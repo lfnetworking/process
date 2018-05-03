@@ -13,19 +13,19 @@ files = **.rst
 
 [all.linelength]
 bears = LineLengthBear
-files = **.rst
+files = **.rst, **.txt
 max_line_length = 80
 
 [all.spacing]
 bears = SpaceConsistencyBear
-files = **.rst
+files = **.rst, **.txt
 use_spaces = True
 enforce_newline_at_EOF = False
 default_actions = SpaceConsistencyBear: ApplyPatchAction
 
 [all.grammar]
 bears = WriteGoodLintBear
-files = **.rst
+files = **.rst, **.txt
 allow_so_beginning = False
 allow_there_is = False
 allow_cliche_phrases = False
