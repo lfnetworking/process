@@ -1,0 +1,34 @@
+The TAC acknowledges and accepts the Board's request for a May 4 completion
+date on technical governance. Unfortunately, such an ambitious date is
+incompatible with drafting the quality governance we are certain the Board is
+requesting for the new umbrella-of-umbrella’s situation we find ourselves in.
+
+In an attempt to meet the Board's request, drafting has been proceeding in
+earnest, resulting thus far in documenting of a first draft statement of
+principles to guide us [0], a first draft general framework to set the stage
+[1], and an incomplete project lifecycle [2]. None of these has achieved full
+consensus nor is complete at this time. Neither have these three efforts been
+harmonized into a coherent whole. Once we have a fairly presentable set of
+proposals, we need to bring them to the LFN communities to solicit additional
+feedback and build community buy-in. We are making good progress, but have much
+yet to do. See the TODOs inline for details about what still needs to be done.
+
+Had we anticipated that the Board would augment our previous recommendation by
+attaching a deadline, we would have provided the baselining from other
+communities we provide here.
+
+OpenDaylight's drafting of technical governance took nine weeks, including an
+intensive F2F meeting. FD.io's took 5 weeks including a F2F meeting. ONAP's
+took 5 weeks including a F2F meeting. Both ONAP and FD.io benefited from
+being able to start from the OpenDaylight governance, as their structures were
+similar.
+
+LFN's structure is new and novel and so we expect it to be an effort closer to
+that of the OpenDaylight drafting, but without the benefit of a F2F. As such
+we request the Board extend its deadline to be July 11th from the receipt by
+the TAC of its response to this recommendation to allow for the drafting of
+quality technical governance for LFN.
+
+[0]: https://gerrit.linuxfoundation.org/infra/#/c/10223/
+[1]: https://gerrit.linuxfoundation.org/infra/#/c/10103/
+[2]: https://gerrit.linuxfoundation.org/infra/#/c/10221/
