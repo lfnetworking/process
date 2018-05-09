@@ -12,6 +12,7 @@ Contents:
 
    governance/charter.rst
    governance/CHANGELOG.rst
+   recommendations/index
 
 Indices and tables
 ==================
