@@ -25,8 +25,7 @@ similar.
 
 LFN's structure is new and novel and so we expect it to be an effort closer to
 that of the OpenDaylight drafting, but without the benefit of a F2F. As such
-we request the Board extend its deadline to be July 11th from the receipt by
-the TAC of its response to this recommendation to allow for the drafting of
+we request the Board extend its deadline to be July 11th for the drafting of
 quality technical governance for LFN.
 
 [0]: https://gerrit.linuxfoundation.org/infra/#/c/10223/
