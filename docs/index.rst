@@ -8,7 +8,10 @@ Linux Foundation Networking (LFN) Process documentation.
 Contents:
 
 .. toctree::
-    :maxdepth: 2
+   :maxdepth: 3
+
+   governance/charter.rst
+   governance/CHANGELOG.rst
 
 Indices and tables
 ==================
