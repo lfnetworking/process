@@ -14,7 +14,7 @@ files = **.rst
 [all.linelength]
 bears = LineLengthBear
 files = **.rst, **.txt
-max_line_length = 80
+max_line_length = 79
 
 [all.spacing]
 bears = SpaceConsistencyBear
